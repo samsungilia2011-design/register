@@ -1,0 +1,9 @@
+{
+  "description": "PurgeSMP Minecraft server",
+  "owner": {
+    "username": "ТВОЙ_GITHUB_НИК"
+  },
+  "record": {
+    "CNAME": "yourname.cloudflare.net"
+  }
+}
